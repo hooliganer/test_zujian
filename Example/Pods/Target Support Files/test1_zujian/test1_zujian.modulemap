@@ -1,0 +1,6 @@
+framework module test1_zujian {
+  umbrella header "test1_zujian-umbrella.h"
+
+  export *
+  module * { export * }
+}

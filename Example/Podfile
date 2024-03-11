@@ -1,3 +1,6 @@
+source 'https://github.com/hooliganer/test_zujian'
+
+
 use_frameworks!
 
 platform :ios, '10.0'
